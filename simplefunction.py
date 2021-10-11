@@ -1,4 +1,6 @@
-def ManUnited(prayers):
+def ManUnited(prayers,coach,captain):
     prayers = ['Pogba','Jesse','Lingard']
-    print(prayers)
-ManUnited('')
+    coach = 'Ole'
+    captain = 'Maguire'
+    print(prayers,coach,captain)
+ManUnited('','','')
