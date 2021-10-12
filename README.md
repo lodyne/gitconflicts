@@ -1,3 +1,3 @@
 # gitconflicts
 
-## Repo to solve conficts caused by git
+### Repo on how to solve conficts caused by git
